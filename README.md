@@ -22,6 +22,12 @@ As each project may need different stuff, there is a bunch of boilerplates, with
     - typescript (import ~~require~~)
     - jest (ts and js)
 
+### Node-TS-Jest-express:
+    - nodejs
+    - typescript (import ~~require~~)
+    - jest (ts and js)
+    - express
+
 
 ## Collaboration or problems?
 
